@@ -1,5 +1,3 @@
-#C03-13
-
 print("\nThe following program will read a binary integer and will print its decimal"
 " equivalent.\n\n");
 
